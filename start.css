@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, blue, red, green, yellow, pink, purple);
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    text-shadow: 2px 2px;
+}
+div{
+    align-self: center;
+}
